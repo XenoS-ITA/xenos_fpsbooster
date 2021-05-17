@@ -2,6 +2,7 @@
 
 <div align="center">
     <p>
+        XenoS.єχє#2859
         <a href="https://discord.com/brand-new">
             <img alt="XenoS.єχє#2859" src="https://i.imgur.com/5vd9yxD.png">
         </a>
